@@ -23,3 +23,21 @@ I'm open to collaborating with other developers, artists, composers, and writers
 📍 Kazakhstan
 
 *Building strange worlds, one project at a time.* 👾
+
+
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/>
+  <img src="https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://ghstats.dev/api/card?username=YOUR_USERNAME)
+
+![Top Languages](https://ghstats.dev/api/card?username=YOUR_USERNAME&type=languages)
