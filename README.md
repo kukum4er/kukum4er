@@ -37,9 +37,11 @@ I'm open to collaborating with other developers, artists, composers, and writers
 
 
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://ghstats.dev/api/card?username=ТВОЙ_НИК&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight)
 
-![Top Languages](https://ghstats.dev/api/card?username=ТВОЙ_НИК&type=languages&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
 
