@@ -36,8 +36,10 @@ I'm open to collaborating with other developers, artists, composers, and writers
 </p>
 
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://ghstats.dev/api/card?username=YOUR_USERNAME)
+![GitHub Stats](https://ghstats.dev/api/card?username=ТВОЙ_НИК&theme=tokyonight)
 
-![Top Languages](https://ghstats.dev/api/card?username=YOUR_USERNAME&type=languages)
+![Top Languages](https://ghstats.dev/api/card?username=ТВОЙ_НИК&type=languages&theme=tokyonight)
+
