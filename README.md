@@ -40,8 +40,8 @@ I'm open to collaborating with other developers, artists, composers, and writers
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kukum4er&theme=tokyonight)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=kukum4er&layout=compact&theme=tokyonight)
 
 
